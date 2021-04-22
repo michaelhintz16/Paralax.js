@@ -1,4 +1,4 @@
 # Paralax.js
-# Paralex.js Mouse moving affect with Gsap. 
+* Paralex.js Mouse moving affect with Gsap. 
 
 
